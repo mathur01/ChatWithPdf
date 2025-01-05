@@ -1,4 +1,4 @@
-name: ollama
+name: llama
 channels:
   - defaults
 dependencies:
