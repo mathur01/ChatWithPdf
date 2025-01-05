@@ -20,3 +20,12 @@ CUDA-enabled GPU with 4GB VRAM
 PyTorch
 
 Llama 2.0 weights (downloaded separately)
+
+Download offline model:
+https://huggingface.co/Manel/Llama-2-13b-chat-hf-Q2_K-GGUF/tree/main
+
+How to run this repo:
+1. Install all required packages from the environment.yaml file
+2. Run File_Extract.py as the main file.
+3. Keep folders and file names as listed in the FileExtract.py file 
+
